@@ -65,7 +65,7 @@
             Congratulations! 🏆
             <!-- <div class="badge mx-2 badge-secondary">NEW</div> -->
           </h2>
-          <p>
+          <p class="text-xl">
             You're now offically a haker and have joined the ultra exclusive
             guild of the hake
           </p>
@@ -92,11 +92,6 @@
     text-align: center;
     padding: 1em;
     margin: 0 auto;
-  }
-
-  img {
-    height: 16rem;
-    width: 16rem;
   }
 
   h1 {
